@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/FelipeRaulino)
 <h1 align="center">Olá👋, Eu sou o Felipe Raulino</h1>
 <h3 align="center">Um desenvolvedor que gosta de aprender sobre o vasto mundo da web</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
