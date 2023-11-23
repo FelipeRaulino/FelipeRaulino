@@ -1,6 +1,5 @@
 <h1 align="center">Olá👋, Eu sou o Felipe Raulino</h1>
 <h3 align="center">Um desenvolvedor que gosta de aprender sobre o vasto mundo da web</h3>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🌱 Atualmente estou aprendendo sobre **Javascript, Typescript, Java, Node.js, Spring, React.js, Banco de dados relacionais e não relacionais...**
 
